@@ -1,11 +1,11 @@
 <addon id="repository.flixrepo" name="FlixRepo" version="1.0.0" provider-name="YourName">
     <extension point="xbmc.addon.repository" name="FlixRepo">
-        <info compressed="false">https://your-github-username.github.io/FlixRepo/addons.xml</info>
-        <checksum>https://your-github-username.github.io/FlixRepo/addons.xml.md5</checksum>
-        <datadir zip="true">https://your-github-username.github.io/FlixRepo/addons/</datadir>
+        <info compressed="false">https://profitick.github.io/FlixRepo/addons.xml</info>
+        <checksum>https://profitick.github.io/FlixRepo/addons.xml.md5</checksum>
+        <datadir zip="true">https://profitick.github.io/FlixRepo/addons/</datadir>
     </extension>
     <extension point="xbmc.addon.metadata">
-        <summary lang="en">FlixRepo - Czech &amp; Slovak Video Addons</summary>
+        <summary lang="en">FlixRepo - Czech & Slovak Video Addons</summary>
         <description lang="en">A repository of Czech and Slovak video streaming addons for Kodi 21.2 Omega.</description>
         <platform>all</platform>
         <license>MIT</license>
